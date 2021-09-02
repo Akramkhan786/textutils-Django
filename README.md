@@ -14,4 +14,5 @@ Tool for analyzing any kind of text data in Django backend
 6)Copy Text
 # Technology Used
 Django Framework
+
 Language-Python
