@@ -3,7 +3,7 @@ Tool for analyzing any kind of text data in Django backend
 # We do from Textutils 
 1)Remove Punctuations
 
-2)UPPERCASE
+2)Convert to UPPERCASE
 
 3)New Line Remove
 
@@ -11,6 +11,7 @@ Tool for analyzing any kind of text data in Django backend
 
 5)Numbers Remover
 
+6)Copy Text
 # Technology Used
 Django Framework
 Language-Python
